@@ -1,2 +1,74 @@
-# Data-analysis-projects
-ollection of data analysis projects using Python and SQL, focused on exploratory analysis, business insights, and real-world datasets.
+# 📊 Data Analysis Projects
+
+This repository contains a collection of data analysis projects developed using Python and SQL.  
+The projects focus on exploratory data analysis (EDA), business insights, and data-driven decision-making using real-world datasets.
+
+---
+
+## 🧠 About this repository
+
+- Hands-on data analysis projects
+- Real-world datasets and business-oriented problems
+- Focus on insights, metrics, and clear communication of results
+- Projects developed as part of data analytics training and personal practice
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Python (Pandas, NumPy)
+- Data Visualization (Matplotlib, Seaborn)
+- SQL
+- Jupyter Notebook
+- Git & GitHub
+
+---
+
+## 📂 Projects
+
+### 🔹 Video Game Sales Analysis
+**Description:**  
+Analysis of historical video game sales data, including user and critic reviews, genres, platforms, and ESRB ratings, to identify patterns that determine a game’s commercial success.
+
+**Key focus:**
+- Exploratory Data Analysis (EDA)
+- Sales trends by platform and genre
+- Impact of ratings and reviews on success
+- Market insights to support marketing decisions
+
+**Tools:** Python, Pandas, Matplotlib, Seaborn  
+
+📁 Folder: `video-game-sales-analysis`
+
+---
+
+### 🔹 Project 2 – Coming soon
+**Description:**  
+_To be added._
+
+---
+
+### 🔹 Project 3 – Coming soon
+**Description:**  
+_To be added._
+
+---
+
+## 📈 What you’ll find here
+
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Business and product insights
+- Visual storytelling with data
+- Well-documented notebooks
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: ___  
+- ✉️ Email: ___  
+
+---
+
+⭐ If you find these projects useful, feel free to leave a star
