@@ -66,8 +66,8 @@ _To be added._
 
 ## 📫 Contact
 
-- 💼 LinkedIn: ___  
-- ✉️ Email: ___  
+- 💼 LinkedIn: www.linkedin.com/in/bladimir-andres-hernandez-a1764a2b7
+- ✉️ Email: bladimir4hernandez@gmail.com
 
 ---
 
