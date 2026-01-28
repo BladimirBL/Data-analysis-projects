@@ -42,7 +42,7 @@ Analysis of historical video game sales data, including user and critic reviews,
 
 ---
 
-### 🔹 Project 2 – Coming soon
+### 🔹 Project 2 – Model Ftness Investigation strategy
 **Description:**  
 _To be added._
 
