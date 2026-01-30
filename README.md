@@ -76,7 +76,7 @@ Data analysis project using SQL to explore a book service database containing in
 
 ---
 
-### 🔹 Project 3 – SQL Project – Book Service Analysis
+### 🔹 Project 4 – A-B Testing Project – Recommender System
 
 **Description:**  
 Data analysis project focused on evaluating the results of an A/B test for an international e-commerce platform. The test analyzes the impact of an improved recommendation system on user behavior and conversion rates across the purchase funnel.
@@ -89,6 +89,10 @@ Key focus:
 -Statistical analysis of experiment results
 -Data-driven evaluation of product and UX changes
 
+**Tools:** pandas, numpy, matplotlib, datetime, math, statsmodels.stats
+
+📁 Folder: `A/B Testing Project – Recommender System`
+
 ## 📈 What you’ll find here
 
 - Data cleaning and preprocessing
@@ -96,10 +100,6 @@ Key focus:
 - Business and product insights
 - Visual storytelling with data
 - Well-documented notebooks
-
-**Tools:** SQL pandas, numpy, matplotlib, datetime, math, statsmodels.stats
-
-📁 Folder: `A/B Testing Project – Recommender System`
 
 ---
 
