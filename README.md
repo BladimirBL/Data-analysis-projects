@@ -42,8 +42,9 @@ Analysis of historical video game sales data, including user and critic reviews,
 
 ---
 
-### 🔹 Project 2 – Model Ftness Investigation strategy
+### 🔹 Project 2 – Model Fitness Investigation strategy
 **Description:**  
+Data analysis project focused on identifying customer churn patterns in a fitness chain by analyzing user behavior and activity data. The goal is to define churn indicators and propose data-driven customer retention strategies.
 _To be added._
 
 ---
