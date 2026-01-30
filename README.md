@@ -45,8 +45,13 @@ Analysis of historical video game sales data, including user and critic reviews,
 ### 🔹 Project 2 – Model Fitness Investigation strategy
 **Description:**  
 Data analysis project focused on identifying customer churn patterns in a fitness chain by analyzing user behavior and activity data. The goal is to define churn indicators and propose data-driven customer retention strategies.
-_To be added._
 
+**Key focus:**
+- Customer churn identification and definition
+- Behavioral analysis of gym members
+- Exploratory Data Analysis (EDA)
+- Key metrics and customer segmentation
+- Data-driven customer retention strategies
 ---
 
 ### 🔹 Project 3 – Coming soon
