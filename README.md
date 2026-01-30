@@ -56,6 +56,7 @@ Data analysis project focused on identifying customer churn patterns in a fitnes
 **Tools:** Python, Pandas, Matplotlib, Seaborn, numpy
 
 📁 Folder: `Model Fitness Investigation strategy`
+
 ---
 
 ### 🔹 Project 3 – Coming soon
