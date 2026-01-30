@@ -76,6 +76,19 @@ Data analysis project using SQL to explore a book service database containing in
 
 ---
 
+### 🔹 Project 3 – SQL Project – Book Service Analysis
+
+**Description:**  
+Data analysis project focused on evaluating the results of an A/B test for an international e-commerce platform. The test analyzes the impact of an improved recommendation system on user behavior and conversion rates across the purchase funnel.
+
+Key focus:
+
+-A/B test analysis and validation
+-Funnel analysis (product_page → product_cart → purchase)
+-Conversion rate comparison between control and test groups
+-Statistical analysis of experiment results
+-Data-driven evaluation of product and UX changes
+
 ## 📈 What you’ll find here
 
 - Data cleaning and preprocessing
@@ -83,6 +96,10 @@ Data analysis project using SQL to explore a book service database containing in
 - Business and product insights
 - Visual storytelling with data
 - Well-documented notebooks
+
+**Tools:** SQL pandas, numpy, matplotlib, datetime, math, statsmodels.stats
+
+📁 Folder: `A/B Testing Project – Recommender System`
 
 ---
 
