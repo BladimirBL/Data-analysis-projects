@@ -64,11 +64,11 @@ Data analysis project focused on identifying customer churn patterns in a fitnes
 Data analysis project using SQL to explore a book service database containing information about books, authors, publishers, user ratings, and reviews. The goal is to extract insights and support the development of a value proposition for a new product in the digital reading market.
 
 **Key focus:**
--Writing and optimizing SQL queries
--Data exploration across multiple related tables
--Analysis of books, authors, publishers, and user ratings
--Identifying patterns in customer feedback and reviews
--Generating insights to support product and business decisions
+- Writing and optimizing SQL queries
+- Data exploration across multiple related tables
+- Analysis of books, authors, publishers, and user ratings
+- Identifying patterns in customer feedback and reviews
+- Generating insights to support product and business decisions
 
 **Tools:** SQL
 
