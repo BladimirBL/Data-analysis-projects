@@ -52,11 +52,21 @@ Data analysis project focused on identifying customer churn patterns in a fitnes
 - Exploratory Data Analysis (EDA)
 - Key metrics and customer segmentation
 - Data-driven customer retention strategies
+
+**Tools:** Python, Pandas, Matplotlib, Seaborn, numpy
+
+📁 Folder: `Model Fitness Investigation strategy`
 ---
 
 ### 🔹 Project 3 – Coming soon
 **Description:**  
-_To be added._
+
+
+**Key focus:**
+
+**Tools:**
+
+📁 Folder: `video-game-sales-analysis`
 
 ---
 
